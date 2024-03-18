@@ -33,7 +33,7 @@ quality.
 Below are a few audios samples from the target speaker.
 
 <audio controls>
-				<source src="\audios\target\2013000484.wav" type="audio/mpeg">
+				<source src="audios\target\2013000484.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 <audio controls>
